@@ -1,0 +1,8 @@
+ip
+v0,v1,...,v5
+
+1) vi++
+2) vi=vj
+3) vi=ARR[vj]
+4) ARR[vj]=vi
+5) if (vi > vj) X
